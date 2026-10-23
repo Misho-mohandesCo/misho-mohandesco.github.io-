@@ -97,3 +97,11 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 min-height: 100vh;
 }
+html, body {
+min-height: 100%;
+margin: 0;
+}
+
+body {
+background: url(“IMG_7249.jpeg”) center center / cover no-repeat fixed !important;
+}
